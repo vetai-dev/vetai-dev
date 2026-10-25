@@ -7,7 +7,7 @@ I build smart tools for veterinary care — from drug-dosage calculators and dis
 - 🐾 Focus: veterinary medicine + AI
 - 💻 Main languages: TypeScript, Kotlin
 - 🤖 AI: Google Gemini
-- 📍 GitHub: [@zare1320](https://github.com/zare1320)
+- 📍 GitHub: [@vetai-dev](https://github.com/vetai-dev)
 - 🗓️ On GitHub since June 2025
 
 ---
@@ -21,8 +21,8 @@ I build smart tools for veterinary care — from drug-dosage calculators and dis
 | **Most active project** | `pet-flow` — updated October 2026 |
 | **Followers / Stars** | Early days — 0 and 0, growing from here 🌱 |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zare1320&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zare1320&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vetai-dev&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vetai-dev&layout=compact&theme=dark)
 
 ---
 
@@ -30,27 +30,27 @@ I build smart tools for veterinary care — from drug-dosage calculators and dis
 
 ### Smart-Veterinary-Assistant ⭐ Public
 Smart veterinary assistant — React 18 + Vite + Zustand, TypeScript, Gemini AI.
-[→ View on GitHub](https://github.com/zare1320/Smart-Veterinary-Assistant)
+[→ View on GitHub](https://github.com/vetai-dev/Smart-Veterinary-Assistant)
 
 ### pet-flow 🔒 Private — most active
 Pet-flow management — Angular 21 + Angular Material + Tailwind CSS, TypeScript, Gemini AI, SSR.
-[→ View on GitHub](https://github.com/zare1320/pet-flow)
+[→ View on GitHub](https://github.com/vetai-dev/pet-flow)
 
 ### vetflow 🔒 Private
 Vet-flow management — Next.js 15 + React 19 + Tailwind CSS, TypeScript, Gemini AI, Firebase.
-[→ View on GitHub](https://github.com/zare1320/vetflow)
+[→ View on GitHub](https://github.com/vetai-dev/vetflow)
 
 ### apk ⭐ Public
 Veterinary Android app — Kotlin, Android Studio, Gemini AI.
-[→ View on GitHub](https://github.com/zare1320/apk)
+[→ View on GitHub](https://github.com/vetai-dev/apk)
 
 ### -2 ⭐ Public
 دستیار حرفه‌ای دامپزشک — TypeScript, React + Vite, Gemini AI.
-[→ View on GitHub](https://github.com/zare1320/-2)
+[→ View on GitHub](https://github.com/vetai-dev/-2)
 
 ### `-` 🔒 Private
 دستیار هوشمند دامپزشک — محاسبه‌گر دارو و تشخیص‌دهنده بیماری در حیوانات خانگی — TypeScript.
-[→ View on GitHub](https://github.com/zare1320/-)
+[→ View on GitHub](https://github.com/vetai-dev/-)
 
 ---
 
